@@ -8,4 +8,5 @@
 - `npm config set strict-ssl false` : 인증서 검증 옵션을 비활성화하는 명령어
 해결되지 않았다.
 - `process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';` : 직접 파일 내에 추가하여 인증서 검증 옵션을 비활성화 하는 코드
+`create-next-app@latest`로 프로젝트를 생성하였기 때문에 `next-practice/node_modules/next/dist/server/lib/start-server.js` 이 경로에 추가해주었다.
 해결되었지만, 단 프로덕션 환경에서는 보안상의 이유로 개발 환경에서만 사용하는 것이 좋다.
