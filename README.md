@@ -1,5 +1,3 @@
-# next-practice
-
 ## Troubleshooitng #1
 ### 🔍문제 정의 
 <img width="1180" alt="image" src="https://github.com/alwubin/next-practice/assets/135022491/406e33c3-b5f3-4da8-b87a-82e2837c5517">
